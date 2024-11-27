@@ -10,7 +10,7 @@ body {
 }
 
 #sidebar {
-    background: linear-gradient(111.8deg, rgb(0, 146, 219) 19.8%, rgb(0, 112, 239) 92.1%);
+    background: linear-gradient(111.8deg, pink 19.8%, rgb(189, 100, 115) 92.1%);
     padding: 10%;
     height: 100vh;
     box-sizing: border-box;

@@ -90,7 +90,6 @@ body {
     margin: auto;
     padding-right: 15px;
     font-size: 2vh;
-    /* grid-column: 0; */
 }
 
 #search-bar input {
@@ -103,7 +102,6 @@ body {
     box-sizing: border-box;
 
     flex-grow: 1;
-    /* grid-column: 2; */
 }
 
 #profile-corner {
